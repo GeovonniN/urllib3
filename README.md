@@ -16,7 +16,7 @@
   <a href="https://bestpractices.coreinfrastructure.org/projects/6227"><img alt="CII Best Practices" src="https://bestpractices.coreinfrastructure.org/projects/6227/badge" /></a>
 </p>
 
-urllib3  is a powerful, *user-friendly* HTTP client for Python. Much of the
+urllib3    is a powerful, *user-friendly* HTTP client for Python. Much of the
 Python ecosystem already uses urllib3 and you should too.
 urllib3 brings many critical features that are missing from the Python
 standard libraries:
